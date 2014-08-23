@@ -7,11 +7,11 @@ This theme tries to also give the [Atom](https://github.com/atom/atom) feel.
 
 Installation
 -----------
-## From Package (Melpa)
+#### From Package (Melpa)
 
 **M-x** `package-install` RET `seti-theme`.
 
-## Manual
+#### Manual
 
 Download `seti-theme.el` to the directory `~/.emacs.d/themes/`. Add this to your
 `.emacs`:
