@@ -7,6 +7,9 @@ This theme tries to also give the [Atom](https://github.com/atom/atom) feel.
 
 Installation
 -----------
+## From Package (Melpa)
+
+**M-x** `package-install` RET `seti-theme`.
 
 ## Manual
 
