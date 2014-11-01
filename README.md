@@ -1,8 +1,6 @@
 Seti Theme (for Emacs)
 ======================
 
-[![MELPA](http://melpa.org/packages/seti-theme-badge.svg)](http://melpa.org/#/seti-theme)
-
 Dark theme ispired by [Atom Seti](https://github.com/jesseweed/seti-ui).
 
 This theme tries to also give the [Atom](https://github.com/atom/atom) feel.
@@ -10,6 +8,8 @@ This theme tries to also give the [Atom](https://github.com/atom/atom) feel.
 Installation
 -----------
 #### From Package (Melpa)
+
+[![MELPA](http://melpa.org/packages/seti-theme-badge.svg)](http://melpa.org/#/seti-theme)
 
 **M-x** `package-install` RET `seti-theme`.
 
