@@ -4,7 +4,7 @@
 ;; Author: Vlad Piersec <vlad.piersec@gmail.com>
 ;; Version: 0.1
 ;; Keywords: themes
-;; URL: https://github.com/caisah/seti-ui-theme.el
+;; URL: https://github.com/caisah/seti-theme
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
