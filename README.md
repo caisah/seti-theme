@@ -11,7 +11,7 @@ Installation
 
 [![MELPA](http://melpa.org/packages/seti-theme-badge.svg)](http://melpa.org/#/seti-theme)
 
-**M-x** `package-install` RET `seti-theme`.
+<kbd>M-x package-install</kbd> <kbd>RET</kbd> `seti-theme`.
 
 #### Manual
 
@@ -24,7 +24,7 @@ Download `seti-theme.el` to the directory `~/.emacs.d/themes/`. Add this to your
 
 You can load the theme now with:
 
-`M-x load-theme RET seti`
+<kbd>M-x load-theme</kbd> <kbd>RET</kbd> `seti`
 
 To make it the default theme add to your `.emacs` file:
 
