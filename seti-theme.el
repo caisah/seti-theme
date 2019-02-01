@@ -166,6 +166,8 @@
 
    ;; Lines
    `(linum ((t (:foreground ,text-4  :weight light :height 0.9))))
+   `(line-number ((t (:inherit linum))))
+   `(line-number-current-line ((t (:inherit linum))))
    `(fringe ((t (:background ,background-3 :foreground ,text-4))))
    `(left-margin ((t (nil))))
    `(hl-line ((t (:background ,background-4)))))
